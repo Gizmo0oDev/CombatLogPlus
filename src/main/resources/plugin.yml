@@ -1,0 +1,7 @@
+name: CombatLogPlus
+version: '${project.version}'
+main: io.github.gizmo0odev.combatlogplus.CombatLogPlus
+api-version: '1.20'
+authors: [Gizmo0o]
+description: Premium combat system
+website: https://gizmo0odev.github.io

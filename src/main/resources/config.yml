@@ -1,0 +1,40 @@
+# CombatLog+
+# Author: Gizmo0o
+#
+# Change the text which appears above the hotbar when in combat:
+combat-title: "§fCombat: "
+#
+# The amount of time a player stays in combat for after getting hit (in seconds):
+combat-duration: 20
+#
+# Chose if you want to kill the player on disconnect or just teleport them to the spot where they disconnected:
+kill-on-disconnect: true
+#
+# Customisable options when in combat:
+disable-elytra: true
+disable-trident: true
+disable-ender-pearl: true
+disable-chorus-fruit: true
+#
+# Disable plugin in certain world:
+# (Set to "" to remove)
+disable-world: "lobby"
+#
+# Disable up to 10 commands when in combat (without the "/"):
+# (Set to "" to remove)
+disable-command-1: "spawn"
+disable-command-2: "rtp"
+disable-command-3: "tpa"
+disable-command-4: ""
+disable-command-5: ""
+disable-command-6: ""
+disable-command-7: ""
+disable-command-8: ""
+disable-command-9: ""
+disable-command-10: ""
+#
+# Change the message when a player is doing a forbidden action:
+error-message: "§cYou can't do that while in combat!"
+#
+# Thanks for using CombatLog+!
+# Please leave a positive review if you find this plugin helpful!
